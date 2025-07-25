@@ -1,5 +1,6 @@
+import Chant from "./Chant";
 function App() {
-  return <h1>Syed Muhamamd Bilal | Learning React Indepth</h1>;
+  return <Chant />;
 }
 
 export default App;
